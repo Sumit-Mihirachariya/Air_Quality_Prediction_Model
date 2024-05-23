@@ -3,6 +3,7 @@
 This project is about using machine learning techniques, specifically time series forecasting, to predict the air quality index in Indian cities. The goal is to leverage historical data and various factors that affect air quality to forecast future air quality trends. By analyzing and understanding these trends, it can contribute to monitoring and improving air quality, which is crucial for public well-being.
 
 **Here's a more detailed summary and description of the project:**
+
 The increasing levels of air pollution in Indian cities have become a significant concern for public health and the environment. To address this issue, this project aims to develop a machine learning model that can predict the air quality index (AQI) based on historical data and various factors that influence air quality.
 
 The project involves collecting and analyzing a dataset containing information about air pollutants, meteorological conditions, and other relevant variables that impact air quality. This data is then preprocessed and prepared for use in machine learning algorithms.
